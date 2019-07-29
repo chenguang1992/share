@@ -6,5 +6,6 @@ theme-links      : [ "#0295BB", "#C0C0C0" ]
 theme-code       : [ "Inconsolata" ]
 theme-controls   : [ "#484848" ]
 theme-margins    : [ "0", "5px" ]
+transition : fade
 
 highlight        : ir-black
